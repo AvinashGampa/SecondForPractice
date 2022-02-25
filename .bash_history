@@ -38,3 +38,15 @@ git log
 ll
 ls -al
 git add avinash1
+touch file avinash3
+touch avinash3
+ll
+vim avinash3
+ll
+cat  avinash3
+git status
+git add avinash3
+git remote add origin https://github.com/AvinashGampa/SecondForPractice.git  
+ll
+git branch
+git push -u origin master
