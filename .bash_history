@@ -27,3 +27,14 @@ touch avinash1
 ll
 vim avinash1
 cat avinash1 
+git status
+git commit -m "Third Commit" avinash3
+git log
+git status
+git add .
+git commit -m "commmits" .
+git status
+git log
+ll
+ls -al
+git add avinash1
