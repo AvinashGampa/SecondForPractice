@@ -100,3 +100,32 @@ git branch
 ll
 git push -u origin master
 git checkout practice1
+git checkout branch1
+gut branch
+git status
+git checkout branch1
+git branch
+git checkout Branch1
+git commit -m.
+git add -a
+ll
+git status
+git commit -m .viminfo
+git add
+git commit -a
+git status
+git checkout Branch1
+git status
+git checkout Branch1
+git commit -m .
+git push -m.
+--all
+ --all    
+git branch
+touch file8
+touch file9
+touch file7
+git branch
+git checkout practice1 
+git commit -m "changes" master
+git commit -m "changes"
