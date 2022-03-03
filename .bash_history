@@ -50,3 +50,53 @@ git remote add origin https://github.com/AvinashGampa/SecondForPractice.git
 ll
 git branch
 git push -u origin master
+git status
+git add .
+git status
+git status
+git commit -m "commited" .
+git status
+git log
+git branch
+git branch Branch1
+git branch
+git checkout Branch1
+git branch
+ll
+touch avinash3
+ll
+git checkout master
+ll
+git status
+git add file3
+git add .bash_history
+git commit -m "Commitss" .bash_history
+git branch
+ll
+git push -u origin master
+git status
+ll
+git remote add origin https://github.com/AvinashGampa/SecondForPractice.git
+ll
+git branch
+git push -u origin master
+scd
+ll
+git branch
+git branch practice1
+git branch
+git checkout practice1
+git branch
+ll
+touch practice2
+ll
+git checkout master
+ll
+git checkout master
+git status
+git add practice2
+git commit -m "practice commit" practice2 
+git branch
+ll
+git push -u origin master
+git checkout practice1
